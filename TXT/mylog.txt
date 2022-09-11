@@ -15,4 +15,15 @@ ZCZC W00 60 L10 Reading Operating System Concepts Ch. 18
 ZCZC W00 90 L10 Trying Midterm Problems and Demos
 ZCZC W00 30 L05 Materials Review and Quiz
 ZCZC W01 5 L01 SCELE related
+ZCZC W01 30 L11 VirtualBox Guest Preparation
+ZCZC W01 70 L11 Setup Debian Guest
 ZCZC W01 100 L02 Zoom meeting
+ZCZC W01 100 L02 Zoom meeting
+ZCZC W01 120 L11 Learning Linux Commands, Regex, and Bash
+ZCZC W01 35 L05 Materials Review (Ch. 2 and 18 that I read last week, linux commands, free software, etc.) and Quiz
+ZCZC W01 70 L11 Dress Up Virtual Guest
+ZCZC W01 5 L01 Asking in SCELE about RSA key fingerprint
+ZCZC W01 60 L11 GitHub Setup, Pull, and Push on Virtual Guest
+ZCZC W01 40 L04 Adding index.md and links.md
+ZCZC W01 5 L40 Adding myupdate.txt
+ZCZC W01 10 L41 Updating mylog.txt
