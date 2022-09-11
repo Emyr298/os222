@@ -14,3 +14,5 @@ ZCZC W00 5 L03 Edit GitHub Repository README.md
 ZCZC W00 60 L10 Reading Operating System Concepts Ch. 18
 ZCZC W00 90 L10 Trying Midterm Problems and Demos
 ZCZC W00 30 L05 Materials Review and Quiz
+ZCZC W01 5 L01 SCELE related
+ZCZC W01 100 L02 Zoom meeting
