@@ -2,6 +2,10 @@
 permalink: LINKS/
 ---
 
+[HOME](https://emyr298.github.io/os222/) --- [LINKS](https://emyr298.github.io/os222/LINKS/) --- [LOG](https://emyr298.github.io/os222/TXT/mylog.txt) --- [TARBALL](https://emyr298.github.io/os222/SandBox/emyr298.tar.xz) --- [GITHUB](https://github.com/Emyr298/os222)
+
+---
+
 # LINKS
 ## Week 00
 1. [What is an Operating System (OS)?](https://www.techtarget.com/whatis/definition/operating-system-OS)
