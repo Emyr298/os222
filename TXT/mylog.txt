@@ -40,3 +40,17 @@ ZCZC W02 20 L04 Updating links.md
 ZCZC W02 5 L12 WEEK02.tar.bz2.asc related
 ZCZC W02 10 L44 Creating and Running myscript.sh
 ZCZC W02 10 L41 Updating mylog.txt
+ZCZC W03 5 L01 SCELE related
+ZCZC W03 100 L02 Zoom meeting
+ZCZC W03 100 L00 Offline lecture
+ZCZC W03 60 L13 Reading Operating System Concepts Ch. 13
+ZCZC W03 70 L13 Reading Operating System Concepts Ch. 14
+ZCZC W03 40 L13 Reading Operating System Concepts Ch. 15
+ZCZC W03 50 L13 Trying Midterm Problems
+ZCZC W03 40 L05 Materials Review and Quizzes
+ZCZC W03 50 L13 Creating An External Virtual Disk
+ZCZC W03 2 L13 Updating myupdate.txt
+ZCZC W03 10 L43 Reading Links and updating myrank.txt
+ZCZC W03 15 L04 Updating links.md
+ZCZC W03 5 L13 WEEK03.tar.bz2.asc related
+ZCZC W03 10 L41 Updating mylog.txt

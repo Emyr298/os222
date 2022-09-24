@@ -33,3 +33,13 @@ This link explains DoS widely. Various things about DoS such as its definition, 
 
 3. [Computer Worm](https://www.techtarget.com/searchsecurity/definition/worm)
 This link explains about computer worms starting from its definition, how it works, its difference from virus, types of worms, how it spreads, and its examples. I like this link because it explains how some computer worms in the past works.
+
+## Week 03
+1. [File Systems and FUSE](https://www.cs.cmu.edu/~fp/courses/15213-s07/lectures/15-filesys/index.html)
+This link explains about file systems and FUSE. I'm interested with this link because it is accompanied by various diagrams that made me understand more about file systems and FUSE.
+
+2. [File Allocation Methods](https://www.geeksforgeeks.org/file-allocation-methods/)
+This link explains about the differences between some file allocation methods like contiguous allocation, linked allocation, and indexed allocation. I'm interested with this link because it explains the advantage and disadvantage of each file allocation method.
+
+3. [Difference between Internal and External Fragmentation](https://www.geeksforgeeks.org/difference-between-internal-and-external-fragmentation/#:~:text=Internal%20fragmentation%20occurs%20when%20memory,on%20the%20size%20of%20processes.)
+This link explains the difference between internal and external fragmentation. I'm interested with this link because the material is presented with diagrams and table of differences that made me understand more about the difference between the two.
