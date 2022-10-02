@@ -43,3 +43,13 @@ This link explains about the differences between some file allocation methods li
 
 3. [Difference between Internal and External Fragmentation](https://www.geeksforgeeks.org/difference-between-internal-and-external-fragmentation/#:~:text=Internal%20fragmentation%20occurs%20when%20memory,on%20the%20size%20of%20processes.)
 This link explains the difference between internal and external fragmentation. I'm interested with this link because the material is presented with diagrams and table of differences that made me understand more about the difference between the two.
+
+## Week 04
+1. [Logical and Physical Address in Operating System](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)
+This link explains about logical and physical address. This link explains the concept of logical and physical address using table of difference making it is easier to understand the difference between the two.
+
+2. [C Pointers](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
+This link explains about pointers in C language. I like the link because it explains about pointer declaration, variable addreses, assigning address to pointer, and getting value in the pointed address clearly and easy to understand.
+
+3. [C Strings](https://www.tutorialspoint.com/cprogramming/c_strings.htm)
+This link explains about strings in C language. I like the link because it explains about string declaration, index accessing, printing, and some string functions like strlen, strcpy, etc. clearly and easy to understand.

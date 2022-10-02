@@ -54,3 +54,13 @@ ZCZC W03 10 L43 Reading Links and updating myrank.txt
 ZCZC W03 15 L04 Updating links.md
 ZCZC W03 5 L13 WEEK03.tar.bz2.asc related
 ZCZC W03 10 L41 Updating mylog.txt
+ZCZC W04 5 L01 SCELE related
+ZCZC W04 100 L02 Zoom meeting
+ZCZC W04 100 L00 Offline lecture
+ZCZC W04 120 L14 Reading Operating System Concepts Ch. 9
+ZCZC W04 60 L14 Trying Midterm Problems
+ZCZC W04 40 L05 Materials Review and Quizzes
+ZCZC W04 10 L14 Script Download and Compiling TLPI
+ZCZC W04 10 L43 Reading Links and updating myrank.txt
+ZCZC W04 15 L04 Updating links.md
+ZCZC W04 10 L41 Updating mylog.txt
