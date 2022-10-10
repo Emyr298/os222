@@ -53,3 +53,7 @@ This link explains about pointers in C language. I like the link because it expl
 
 3. [C Strings](https://www.tutorialspoint.com/cprogramming/c_strings.htm)
 This link explains about strings in C language. I like the link because it explains about string declaration, index accessing, printing, and some string functions like strlen, strcpy, etc. clearly and easy to understand.
+
+## Week 05
+1. [Demand Paging](https://www.javatpoint.com/os-demand-paging)
+This link explains about demand paging. I like the link because it explains about demand paging in a simple way which makes it easy to understand.
