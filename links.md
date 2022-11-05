@@ -57,3 +57,10 @@ This link explains about strings in C language. I like the link because it expla
 ## Week 05
 1. [Demand Paging](https://www.javatpoint.com/os-demand-paging)
 This link explains about demand paging. I like the link because it explains about demand paging in a simple way which makes it easy to understand.
+
+## Week 06
+1. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
+This link explains about how to use fork() function in C. I like this link because it explains the fork() function clearly and it also gives various of examples in using the fork() function.
+
+2. [Difference between Zombie, Orphan and Daemon Processes](https://www.geeksforgeeks.org/difference-between-zombie-orphan-and-daemon-processes/#:~:text=1.-,A%20Zombie%20is%20a%20process%20that%20has%20completed%20its%20task,execution%20is%20called%20an%20orphan.)
+This link explains about the difference between zombie, orphan, and daemon processes. At first, I was confused about the difference between zombie process and orphan process, but I understand about it after reading the link because it separates the two clearly.

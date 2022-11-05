@@ -76,3 +76,18 @@ ZCZC W05 20 L15 Modifying mymemory.c
 ZCZC W05 10 L43 Reading links and updating myrank.txt
 ZCZC W05 10 L04 Updating links.md
 ZCZC W05 10 L41 Updating mylog.txt
+ZCZC W06 5 L01 SCELE related
+ZCZC W06 100 L00 Offline lecture 1
+ZCZC W06 100 L00 Offline lecture 2
+ZCZC W06 70 L16 Reading Operating System Concepts Ch. 3
+ZCZC W06 55 L16 Reading Operating System Concepts Ch. 4
+ZCZC W06 60 L16 Trying Midterm Problems and Demos
+ZCZC W06 40 L05 Materials Review and Quizzes
+ZCZC W06 8 L16 SSH to os1.cs.ui.ac.id
+ZCZC W06 5 L16 Posting to SCeLE my Kernel Version
+ZCZC W06 5 L16 Script Download
+ZCZC W06 5 L16 Fork and Shared Memory
+ZCZC W06 10 L43 Reading links and updating myrank.txt
+ZCZC W06 10 L04 Updating links.md
+ZCZC W06 10 L16 Creating and Copying TARBALL File to os1.cs.ui.ac.id
+ZCZC W06 10 L41 Updating mylog.txt
