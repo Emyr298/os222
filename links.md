@@ -64,3 +64,10 @@ This link explains about how to use fork() function in C. I like this link becau
 
 2. [Difference between Zombie, Orphan and Daemon Processes](https://www.geeksforgeeks.org/difference-between-zombie-orphan-and-daemon-processes/#:~:text=1.-,A%20Zombie%20is%20a%20process%20that%20has%20completed%20its%20task,execution%20is%20called%20an%20orphan.)
 This link explains about the difference between zombie, orphan, and daemon processes. At first, I was confused about the difference between zombie process and orphan process, but I understand about it after reading the link because it separates the two clearly.
+
+## Week 07
+1. [Semaphore vs Monitor](https://www.javatpoint.com/semaphore-vs-monitor)
+This link explains about the difference between semaphore and monitor. I like this link because it explains the difference clearly by using table of difference. It also explains us about the advantages and disadvantages of using semaphore and monitor.
+
+2. [Deadlock Prevention](https://www.javatpoint.com/os-deadlock-prevention)
+This link explains about approaches to prevent deadlock. It explains possible approach to prevent each of deadlock's four condition. It also tells us which of the four approach is practically possible.

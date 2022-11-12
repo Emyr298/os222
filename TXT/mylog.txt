@@ -91,3 +91,17 @@ ZCZC W06 10 L43 Reading links and updating myrank.txt
 ZCZC W06 10 L04 Updating links.md
 ZCZC W06 10 L16 Creating and Copying TARBALL File to os1.cs.ui.ac.id
 ZCZC W06 10 L41 Updating mylog.txt
+ZCZC W07 5 L01 SCELE related
+ZCZC W07 100 L00 Offline lecture 1
+ZCZC W07 100 L00 Offline lecture 2
+ZCZC W07 70 L17 Reading Operating System Concepts Ch. 6
+ZCZC W07 50 L17 Reading Operating System Concepts Ch. 7
+ZCZC W07 80 L17 Reading Operating System Concepts Ch. 8
+ZCZC W07 60 L17 Trying Midterm Problems and Demos
+ZCZC W07 40 L05 Materials Review and Quizzes
+ZCZC W07 5 L17 Script Download
+ZCZC W07 15 L17 Synchronization
+ZCZC W07 10 L43 Reading links and updating myrank.txt
+ZCZC W07 10 L04 Updating links.md
+ZCZC W07 10 L17 Creating and Copying TARBALL File to os1.cs.ui.ac.id
+ZCZC W07 10 L41 Updating mylog.txt
