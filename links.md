@@ -71,3 +71,10 @@ This link explains about the difference between semaphore and monitor. I like th
 
 2. [Deadlock Prevention](https://www.javatpoint.com/os-deadlock-prevention)
 This link explains about approaches to prevent deadlock. It explains possible approach to prevent each of deadlock's four condition. It also tells us which of the four approach is practically possible.
+
+## Week 08
+1. [Preemptive vs Non-Preemptive Scheduling](https://www.geeksforgeeks.org/preemptive-and-non-preemptive-scheduling/#:~:text=Key%20Differences%20Between%20Preemptive%20and,switches%20to%20the%20waiting%20state.)
+This link explains about the difference between preemptive and non-preemptive scheduling. At first, I was confused about the difference between the two, but after reading the link, I understand about it because it explains the difference between the two clearly and easy to understand. It also uses table of difference to help us understand more.
+
+2. [CPU Scheduling Criteria](https://www.geeksforgeeks.org/cpu-scheduling-criteria/)
+This link explains about criterias of CPU Scheduling. I like this link because it explains each criteria in detail, not just their short description.

@@ -105,3 +105,25 @@ ZCZC W07 10 L43 Reading links and updating myrank.txt
 ZCZC W07 10 L04 Updating links.md
 ZCZC W07 10 L17 Creating and Copying TARBALL File to os1.cs.ui.ac.id
 ZCZC W07 10 L41 Updating mylog.txt
+ZCZC W08 15 L01 SCELE related
+ZCZC W08 100 L00 Offline lecture
+ZCZC W08 100 L02 Zoom meeting
+ZCZC W08 120 L18 Reading Operating System Concepts Ch. 5
+ZCZC W08 60 L18 Trying Midterm Problems and Demos
+ZCZC W08 40 L05 Materials Review and Quizzes
+ZCZC W08 90 L18 Watching Recording Week09 Scheduling
+ZCZC W08 85 L18 Watching Recording Week11 Scheduling
+ZCZC W08 15 L18 Doing Pop Quiz 1
+ZCZC W08 5 L18 Doing Pop Quiz 2
+ZCZC W08 5 L18 Script Download
+ZCZC W08 15 L18 Preparation Before LFS
+ZCZC W08 5 L18 Reading Chapter 1 of LFS
+ZCZC W08 5 L18 Doing Chapter 2 of LFS (Skipped 2.4, 2.5, 2.7)
+ZCZC W08 60 L18 Doing Chapter 3 of LFS
+ZCZC W08 15 L18 Doing Chapter 4 of LFS
+ZCZC W08 10 L18 Reading Preliminary of Chapter 5 of LFS
+ZCZC W08 70 L18 Doing Chapter 5 of LFS and Pop Quiz 3 and 4
+ZCZC W08 5 L18 Generating LFS Chapter 1 to 5 Report
+ZCZC W08 10 L43 Reading links and updating myrank.txt
+ZCZC W08 10 L04 Updating links.md
+ZCZC W08 10 L41 Updating mylog.txt
